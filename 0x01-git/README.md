@@ -1,1 +1,1 @@
-tghis is my raedme
+this is my second read me file
