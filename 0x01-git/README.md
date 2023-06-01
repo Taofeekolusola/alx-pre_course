@@ -1,1 +1,2 @@
-tghis is my raedme
+this is my updated readme file
+
